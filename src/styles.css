@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  background: #d1d1d1;
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+}
+.top-button {
+  position: absolute;
+  vertical-align: top;
+  align-items: center;
+  width: 150px;
+  height: 20px;
+  left: 332px;
+}
+.bottom-button {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  top: 287px;
+  left: 340px;
+}
+.left-button {
+  position: absolute;
+  height: 150px;
+  width: 20px;
+  left: 249px;
+  top: 72px;
+}
+.right-button {
+  position: absolute;
+  height: 150px;
+  width: 20px;
+  left: 526px;
+  top: 82px;
+}
+.square-box {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  top: 144px;
+  left: 400px;
+}
